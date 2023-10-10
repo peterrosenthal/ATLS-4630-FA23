@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-class {
+  @apply text-2xl text-blue1 hover:text-blue2
+}
