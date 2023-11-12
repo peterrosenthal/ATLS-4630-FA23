@@ -1,0 +1,21 @@
+{
+  "name": "10-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^6.8.1",
+    "csv-loader": "^3.0.5",
+    "html-webpack-plugin": "^5.5.3",
+    "style-loader": "^3.3.3",
+    "three": "^0.157.0",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
